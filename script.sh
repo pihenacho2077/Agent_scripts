@@ -9,4 +9,4 @@ nproc
 
 lsblk
 
-
+echo "everything ran successfully"
